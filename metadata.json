@@ -1,0 +1,16 @@
+{
+  "name": "Autostart Entry",
+  "description": "Add an Autostart item to the right-click menu of application icons.\n\nA check mark shows when that application is set to start at login. Choosing the item adds or removes its entry in the autostart configuration.",
+  "uuid": "autostartentry@martinszeltins",
+  "gettext-domain": "autostartentry@martinszeltins",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "url": "https://github.com/martinszeltins/gnome-autostart-entry"
+}

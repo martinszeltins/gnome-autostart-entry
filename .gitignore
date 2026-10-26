@@ -1,0 +1,5 @@
+# Exclude the packed extension
+*.zip
+
+# Exclude compiled translations
+locale/
